@@ -1,0 +1,20 @@
+.error{
+    display: block;
+    margin: 0 auto;
+    color: red;
+    font-size: 20px;
+}
+.error img {
+    display: block;
+    margin: 0 auto;
+    width: 50px;
+    height: 50px;
+}
+.error span{
+    text-align: center;
+    font-size: 15px;
+}
+.error div{
+    text-align: center;
+    
+}
